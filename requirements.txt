@@ -1,0 +1,25 @@
+dashscope==1.20.3
+tilse==0.2.1
+transformers==4.47.1
+tqdm==4.66.4
+scikit-learn==1.6.0
+openai==1.58.1
+gdeltdoc
+
+# Comment added by Aswin - 2025-03-17
+# Make sure to give the link for your system's compatible cuda version
+# You can find more about it here - https://pytorch.org/get-started/locally/
+
+--find-links https://download.pytorch.org/whl/cu126
+torch
+torchvision
+torchaudio
+
+
+# For content generation from URLS
+langchain
+langchain_core
+langchain_openai
+langchain_ollama
+beautifulsoup4
+

@@ -20,6 +20,12 @@ This is an adaptation of CHRONOS: Repo for NAACL 2025 Paper "Unfolding the Headl
   * ERROR:root:Search failed: The query was not valid. The API error message was: Your query contained a phrase search that was too short or too long: How has Figure AI advanced AI-powered humanoid robots in various industries
   * WARNING:root:Error: list index out of range, retrying...
  
+# How to Use
+* Create a new python virtual environment
+* Install the packages from requirements.txt - `pip install -r requirements.txt`
+* Use the IDE of your choice to explore the code
+* Make sure the configure your API Keys for OPENAI and other services as required
+* Run main.py
 
 # Citation
 @article{wu2025unfoldingheadlineiterativeselfquestioning,
