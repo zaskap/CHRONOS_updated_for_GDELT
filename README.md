@@ -38,3 +38,5 @@ This is an adaptation of CHRONOS: Repo for NAACL 2025 Paper "Unfolding the Headl
       url={https://arxiv.org/abs/2501.00888}, 
 }
 
+# More Information
+Check the actual repo: https://github.com/Alibaba-NLP/CHRONOS
